@@ -30,11 +30,19 @@ export default function Hero() {
               href="https://github.com/kanaklatwal"
               target="_blank"
               rel="noopener noreferrer"
-              className="px-7 py-3 rounded-xl bg-white text-black font-semibold hover:scale-105 transition duration-300"
-            >
+              className="px-7 py-3 rounded-xl border border-gray-500 hover:bg-white hover:text-black transition duration-300"
+              >
               GitHub
             </a>
-  
+            
+            <a
+             href="https://www.linkedin.com/in/kanak-latwal-14b289323/"
+             target="_blank"
+              rel="noopener noreferrer"
+               className="px-7 py-3 rounded-xl border border-gray-500 hover:bg-blue-500 hover:text-white transition duration-300"
+               >
+            LinkedIn
+           </a>
             <a
               href="/resume.pdf"
               download

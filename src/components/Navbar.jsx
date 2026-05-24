@@ -41,7 +41,14 @@ export default function Navbar() {
           >
             GitHub
           </a>
-  
+          <a
+          href="https://www.linkedin.com/in/kanak-latwal-14b289323/"
+          target="_blank"
+           rel="noopener noreferrer"
+           className="hover:text-blue-500 transition"
+           >
+           LinkedIn
+          </a>
         </div>
   
       </nav>
