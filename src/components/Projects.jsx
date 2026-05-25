@@ -4,6 +4,7 @@ export default function Projects() {
         title: "Scam Detection System",
         tech: "Python • React • Node.js • ML",
         desc: "ML based email & URL fraud detection system with real-time analysis.",
+        images: ["/scam_detection1.png", "/scam_detection2.png"],
         github: "https://github.com/kanaklatwal/Scam-Detector",
         live: "https://scam-detector-1-nelr.onrender.com/"
       },
@@ -12,6 +13,7 @@ export default function Projects() {
         title: "StreamVerse",
         tech: "React • Node • TMDB API",
         desc: "Netflix clone with authentication and movie search.",
+        images: ["/streamverse1.png", "/streamverse2.png"],
         github: "https://github.com/kanaklatwal/Streamverse",
         live: "https://streamverse-eta-sandy.vercel.app/"
       },
@@ -20,6 +22,7 @@ export default function Projects() {
         title: "Drone Detection",
         tech: "Python • OpenCV • AI",
         desc: "AI-powered surveillance and drone tracking system.",
+        images: ["/drone_output1.png", "/drone_output2.png"],
         github: "https://github.com/kanaklatwal/Drone-Detection-ML",
         live: ""
       }
