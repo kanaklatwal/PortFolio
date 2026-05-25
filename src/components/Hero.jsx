@@ -13,7 +13,8 @@ export default function Hero() {
             text-transparent
             bg-clip-text">
            Kanak
-           </span> 👋
+           </span>
+           <span className="animate-pulse">👋</span> 
          </h1>
           <h2 className="text-xl md:text-2xl mt-6 text-gray-300">
             MCA Candidate (2026) | Java Full Stack Developer | Python | ML Enthusiast

@@ -2,7 +2,7 @@ export default function Navbar() {
     return (
       <nav className="
       fixed top-0 w-full z-50
-      bg-black/70 backdrop-blur-md
+      bg-black/80 backdrop-blur-md
       text-white px-10 py-5
       flex justify-between items-center">
   
