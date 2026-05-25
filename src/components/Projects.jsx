@@ -53,7 +53,9 @@ export default function Projects() {
               hover:scale-105
               transition duration-300"
             >
-  
+            
+            <img src={p.images[0]} alt={p.title}
+              className="w-full h-48 object-cover rounded-2xl mb-5 "/>
               <h2 className="text-2xl font-bold">
                 {p.title}
               </h2>
