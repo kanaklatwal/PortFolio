@@ -30,6 +30,7 @@ export default function Navbar() {
             href="#projects"
             className="hover:text-blue-500 transition"
           >
+            
             Projects
           </a>
   
