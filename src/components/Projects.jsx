@@ -33,7 +33,7 @@ export default function Projects() {
       id="projects"
       className="bg-gray-950 text-white py-24 px-8"
     >
-      <h1 className="text-5xl font-bold text-center mb-14">
+      <h1 className="text-5xl font-bold text-center mb-20">
         Projects
       </h1>
 
