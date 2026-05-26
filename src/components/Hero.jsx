@@ -1,7 +1,7 @@
 export default function Hero() {
   return (
-    <section className="min-h-[90vh] bg-black text-white flex items-center justify-center px-6">
-
+    //<section className="min-h-[90vh] bg-black text-white flex items-center justify-center px-6">
+    <section className="min-h-screen bg-black text-white flex items-center justify-center px-6 -mt-10">
       <div className="text-center max-w-4xl">
 
       <p className="text-blue-400 mb-3">
