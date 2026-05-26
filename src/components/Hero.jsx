@@ -4,9 +4,9 @@ export default function Hero() {
 
       <div className="text-center max-w-4xl">
 
-        <p className="text-gray-400 mb-3 tracking-wide">
-          Welcome to my portfolio
-        </p>
+      <p className="text-blue-400 mb-3">
+          Full Stack Developer • Machine Learning • Problem Solver
+      </p>
 
         <h1 className="text-6xl md:text-7xl font-bold leading-tight">
 
